@@ -1,33 +1,44 @@
-# Semana 22 · Prova
+# Semana 22 · PROVA
 
-19-04 a 25-04/2027 · total da sessão até 90 min (termina às 7:00)
+19-04 a 25-04/2027 · Fase 4
 
-**Semana da prova.**
+**Domingo 25-04: Meia Maratona 21,1 km · Meta: 2h10 (6:10/km)**
 
 ## Sessões
 
-- [ ] **Seg (19-04)** · Corrida leve 20 min em Z2 + Upper A leve (20 min, 2 séries)
-- [ ] **Ter (20-04)** · Descanso (muay thai opcional, leve)
-- [ ] **Qua (21-04)** · Corrida leve 15 min + Lower leve (20 min, 2 séries, sem falha)
-- [ ] **Qui (22-04)** · Descanso
-- [ ] **Sex (23-04)** · 15 min leve + 4 acelerações (ou descanso)
-- [ ] **Sáb (24-04)** · Descanso, hidratação, comida de prova testada
-- [ ] **Dom (25-04)** · **Prova: meia maratona (21,1 km)**. Largar a 6:25 a 6:30/km nos primeiros 5 km, acelerar só depois do km 15.
+- [ ] **Seg (19-04)** · Descanso total
+- [ ] **Ter (20-04)** · Caminhada leve 20–30 min · Nada de impacto
+- [ ] **Qua (21-04)** · Feriado · Descanso ou caminhada leve
+- [ ] **Qui (22-04)** · Corrida leve 15 min em Z1 · Apenas para manter o ritmo das pernas
+- [ ] **Sex (23-04)** · Descanso · Preparar material, dormir cedo
+- [ ] **Sáb (24-04)** · Descanso · Pasta party / jantar com carboidrato · Dormir às 22h no máximo
+- [ ] **Dom (25-04)** · 🏃 **PROVA: Meia Maratona 21,1 km**
 
-## Registro de musculação
+## Plano de corrida — 25-04
 
-Séries previstas: 2. Sobra (RIR): 4. Carga em kg × repetições.
+| Trecho | Ritmo alvo | FC alvo | Observação |
+| --- | --- | --- | --- |
+| km 0–5 | 6:20–6:30/km | Z2 (< 155) | Começar mais lento, resistir à adrenalina |
+| km 5–10 | 6:10–6:20/km | Z2/Z3 (155–162) | Ritmo de cruzeiro |
+| km 10–15 | 6:05–6:15/km | Z3 (157–165) | Manter, não acelerar ainda |
+| km 15–18 | 6:00–6:10/km | Z3/Z4 (162–170) | Progressão controlada |
+| km 18–21,1 | deixar sair | Z4 (< 175) | O que sobrar de energia |
 
-| Dia | Exercício | Série 1 | Série 2 | Série 3 | Sobra |
-| --- | --- | --- | --- | --- | --- |
-| | | | | | |
+**Regra de ouro:** Se nos primeiros 5 km a FC já passar de 157, diminuir o ritmo — não lutar contra o corpo.
 
-## Como foi
+## Resultado da prova
 
-- Peso (domingo): 
-- FC de repouso média: 
-- Dor no adutor (0 a 10): 
-- Sono médio (h): 
-- O que funcionou:
-- O que travou:
-- Ajuste para a próxima semana:
+- Data: 25-04-2027
+- Tempo final:
+- Ritmo médio:
+- FC média:
+- FC máxima:
+- Divisão por trecho (5 km splits):
+- Gel/isotônico usado:
+- Como foi:
+- O que repetiria:
+- O que mudaria:
+
+## O que vem a seguir
+
+Descanso por 1–2 semanas. Sem corrida, sem pressão. Depois avaliar próximo objetivo.
