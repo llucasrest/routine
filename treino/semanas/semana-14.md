@@ -1,4 +1,4 @@
-# Semana 14 · Fase 4: processos e Kotlin
+# Semana 14 · Fase 4: processos e Kotlin · treino
 
 ## Tarefas
 
@@ -6,8 +6,6 @@
 - [ ] **Ter** · System design: mock ao vivo
 - [ ] **Qua** · Build RESTFUL APIs using Kotlin and Spring Boot: setup e controllers
 - [ ] **Qui** · Publicar o artigo técnico do projeto (dev.to ou LinkedIn)
-- [ ] **Sex** · Candidaturas, follow-ups e preparação por empresa
-- [ ] **Bônus (sáb)** · Preparar perguntas para o entrevistador e o pitch de faixa salarial
 
 ## Anotações da semana
 

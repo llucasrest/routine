@@ -1,4 +1,4 @@
-# Semana 12 · Fase 3: certificação e candidaturas
+# Semana 12 · Fase 3: certificação e candidaturas · treino
 
 ## Tarefas
 
@@ -6,7 +6,6 @@
 - [ ] **Ter** · System design: mock ao vivo com um colega ou no Pramp (migração de monólito)
 - [ ] **Qua** · Certificação: simulado
 - [ ] **Qui** · Projeto: README com diagrama de arquitetura
-- [ ] **Sex** · Candidaturas e indicações
 - [ ] **Prova** · Claude Certified Developer – Foundations (2 h, num dia livre desta semana)
 - [ ] **Bônus (sáb)** · Certificação: 2 h
 

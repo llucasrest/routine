@@ -1,4 +1,4 @@
-# Semana 03 · Fase 1: vitrine e base
+# Semana 03 · Fase 1: vitrine e base · treino
 
 ## Tarefas
 
@@ -6,8 +6,7 @@
 - [ ] **Ter** · System design: bancos de dados, sharding e consistência
 - [ ] **Qua** · Leitura de apoio: [Transactional outbox](https://microservices.io/patterns/data/transactional-outbox.html)
 - [ ] **Qui** · Projeto: eventos com Kafka e outbox
-- [ ] **Sex** · Lista de 30 empresas-alvo (Java remoto, fintech) em `carreira/empresas-alvo.md`
-- [ ] **Bônus (sáb)** · Escrever a nota da leitura de apoio (outbox) em `notas/`
+- [ ] **Bônus (sáb)** · Escrever a nota da leitura de apoio (outbox) em `treino/notas/`
 
 ## Anotações da semana
 

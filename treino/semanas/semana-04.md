@@ -1,4 +1,4 @@
-# Semana 04 · Fase 1: vitrine e base
+# Semana 04 · Fase 1: vitrine e base · treino
 
 ## Tarefas
 
@@ -6,7 +6,6 @@
 - [ ] **Ter** · System design: filas e sistemas distribuídos
 - [ ] **Qua** · Leitura de apoio: [Making retries safe with idempotent APIs](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/)
 - [ ] **Qui** · Projeto: idempotência nos consumidores e testes
-- [ ] **Sex** · Ajustar o currículo às palavras-chave de 10 vagas reais
 - [ ] **Bônus (sáb)** · Revisar as notas do mês
 
 ## Anotações da semana

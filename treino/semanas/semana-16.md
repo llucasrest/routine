@@ -1,4 +1,4 @@
-# Semana 16 · Fase 4: processos e Kotlin
+# Semana 16 · Fase 4: processos e Kotlin · treino
 
 ## Tarefas
 
@@ -6,8 +6,6 @@
 - [ ] **Ter** · System design: mock final
 - [ ] **Qua** · Leitura: coroutines em Kotlin (documentação oficial)
 - [ ] **Qui** · Atualizar o README do projeto e o currículo com Kotlin
-- [ ] **Sex** · Revisar ofertas e definir os próximos passos
-- [ ] **Bônus (sáb)** · Retrospectiva das 16 semanas: o que manter e o que ajustar
 
 ## Anotações da semana
 

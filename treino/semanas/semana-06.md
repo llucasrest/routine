@@ -1,4 +1,4 @@
-# Semana 06 · Fase 2: profundidade e IA
+# Semana 06 · Fase 2: profundidade e IA · treino
 
 ## Tarefas
 
@@ -6,8 +6,6 @@
 - [ ] **Ter** · System design: mock 2
 - [ ] **Qua** · Curso Build AI-Driven Apps: RAG e vector store
 - [ ] **Qui** · Projeto: RAG com pgvector sobre as regras de comissão
-- [ ] **Sex** · Histórias STAR 3 e 4 (MuleSoft com vários times, incidente na Broadridge) e 5 contatos
-- [ ] **Bônus (sáb)** · Gravar as histórias 3 e 4 em inglês
 
 ## Anotações da semana
 
