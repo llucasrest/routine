@@ -14,7 +14,7 @@
 ## Pastas
 
 - [profissional/](profissional/): todo o plano de carreira e estudo ([estratégia](profissional/estrategia.md), [projeto de portfólio](profissional/projeto.md))
-- [treino/](treino/): parte física, como academia e esportes (a definir)
+- [treino/](treino/): parte física, recomposição e meia maratona ([plano](treino/plano.md))
 
 ## Fontes
 

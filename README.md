@@ -59,4 +59,4 @@ Plano de 16 semanas, 1h por dia de segunda a sexta. Sábado é bônus opcional, 
 - [historias-star/](profissional/historias-star/): banco de histórias para a entrevista comportamental
 - [candidaturas.md](profissional/candidaturas.md), [empresas-alvo.md](profissional/empresas-alvo.md), [contatos.md](profissional/contatos.md)
 
-**Treino** ([treino/](treino/)): parte física, como academia e esportes (a definir)
+**Treino** ([treino/](treino/)): recomposição e meia maratona em 22 semanas ([plano](treino/plano.md), [semanas](treino/semanas/))
