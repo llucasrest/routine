@@ -61,3 +61,4 @@ Plano de 16 semanas, 1h por dia de segunda a sexta. Sábado é bônus opcional, 
 - [recursos.md](treino/recursos.md): cursos, certificação e lista de leituras
 - [notas/](treino/notas/): notas das leituras de segunda (vitrine pública de estudo)
 - [semanas/](treino/semanas/): tarefas de segunda a quinta e bônus de estudo
+- [extras/](treino/extras/): estudos extras do dia, gerados pela skill `estudo-do-dia`

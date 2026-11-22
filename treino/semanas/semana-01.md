@@ -12,3 +12,7 @@
 - O que funcionou:
 - O que travou:
 - Ajuste para a próxima semana:
+
+## Extras
+
+- [ ] [Modelar comissões com Java 21](../extras/2026-11-22-comissoes-java21.md) (2026-11-22, 1 h)
