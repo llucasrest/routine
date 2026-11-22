@@ -1,31 +1,32 @@
-# Semana 01 · Retorno
+# Semana 1 · Regeneração
 
-23-11 a 29-11/2026 · total da sessão até 60 min
+23-11 a 29-11/2026 · Fase 1
+
+Primeira semana de volta após 3 semanas parado. Sem pressa. Objetivo único: fazer o corpo lembrar de correr. Nada de ritmo, nada de distância — só tempo fácil em Z1/Z2.
+
+Nos dias de muay thai (ter/qui), a corrida é feita antes e deve ser curta.
 
 ## Sessões
 
-- [ ] **Seg (23-11)** · Corrida longa de 6 km em Z2 (≈ 42 min, FC até 140) + Upper A curto (20 min, 2 séries)
-- [ ] **Ter (24-11)** · Corrida leve de 25 min em Z2 (FC até 130 ou conversável) · Noite: muay thai (leve, sem chutes altos)
-- [ ] **Qua (25-11)** · Corrida regenerativa de 20 min em Z1/Z2 + Lower (25 min) com Copenhagen plank
-- [ ] **Qui (26-11)** · Corrida leve de 25 min em Z2 · Noite: muay thai (sem chutes altos, intensidade leve)
-- [ ] **Sex (27-11)** · Corrida leve de 25 min em Z2 + Upper B (25 min)
-- [ ] **Sáb (28-11)** · Opcional: corrida de 25 min em Z1/Z2 + mobilidade de quadril e adutor (10 min)
-- [ ] **Dom (29-11)** · Descanso (caminhada de 30 min opcional)
+- [ ] **Seg (23-11)** · Corrida 20 min em Z1/Z2 (FC < 150, ritmo 7:00–7:30/km)
+- [ ] **Ter (24-11)** · Corrida 15 min leve em Z1 · Noite: Muay Thai
+- [ ] **Qua (25-11)** · Corrida 20 min em Z1/Z2
+- [ ] **Qui (26-11)** · Corrida 15 min leve em Z1 · Noite: Muay Thai
+- [ ] **Sex (27-11)** · Corrida 20 min em Z1/Z2
+- [ ] **Sáb (28-11)** · Descanso
+- [ ] **Dom (29-11)** · Descanso
 
-## Registro de musculação
+Volume previsto: ~20 km
 
-Séries previstas: 2. Sobra (RIR): 3 a 4. Carga em kg × repetições.
+## Referência de ritmo
 
-| Dia | Exercício | Série 1 | Série 2 | Série 3 | Sobra |
-| --- | --- | --- | --- | --- | --- |
-| | | | | | |
+Se a FC passar de 155 ainda que o ritmo pareça fácil — andar até baixar. Não há orgulho a defender essa semana.
 
 ## Como foi
 
-- Peso (domingo): 
-- FC de repouso média: 
-- Dor no adutor (0 a 10): 
-- Sono médio (h): 
+- Peso (domingo):
+- FC de repouso (manhã):
+- Dor ou desconforto:
+- Sono médio (h):
 - O que funcionou:
 - O que travou:
-- Ajuste para a próxima semana:
