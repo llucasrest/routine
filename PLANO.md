@@ -11,10 +11,10 @@
 - [ ] System design no formato de entrevista
 - [ ] Repertório de casos reais de arquitetura para citar nas entrevistas
 
-## Trilhas
+## Pastas
 
-- [profissional/](profissional/): currículo, LinkedIn, entrevistas, candidaturas, contatos e histórias STAR ([estratégia](profissional/estrategia.md))
-- [treino/](treino/): leituras, system design, IA, certificação e o [projeto de portfólio](treino/projeto.md)
+- [profissional/](profissional/): todo o plano de carreira e estudo ([estratégia](profissional/estrategia.md), [projeto de portfólio](profissional/projeto.md))
+- [treino/](treino/): parte física, como academia e esportes (a definir)
 
 ## Fontes
 
